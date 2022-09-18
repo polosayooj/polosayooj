@@ -6,7 +6,7 @@
 
 https://web.telegram.org
 
-https;//duckduckgo.com
+https://duckduckgo.com
 
 <!---
 polosayooj/polosayooj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
