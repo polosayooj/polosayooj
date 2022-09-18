@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
-https;//web.telegram.org
+https://web.telegram.org
 
 <!---
 polosayooj/polosayooj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
